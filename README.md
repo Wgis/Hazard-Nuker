@@ -125,6 +125,6 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 
 🌟 **Enjoyed Hazard Nuker?** Consider dropping a star :)
 
-**Hazard Stealer was created by Rdimo0
+** Hazard Stealer was created by Rdimo0
 
 Website: https://cheataway.com/
