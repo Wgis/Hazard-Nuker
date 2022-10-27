@@ -2,7 +2,7 @@
 #### Hazard Nuker was made with
 Love ❌ <br>
 Code ✅
-
+ 
 * ` Settings (Change the Color Theme, Thread Amount, Hotkeys and more!)`
 * ` Both Compact and Feature-Rich`
 * ` QoL Features such as Auto-Update, proxy scraping and more!`
