@@ -10,7 +10,7 @@ import keyboard
 import base64
 
 from util.plugins.common import *
-#from util.plugins.update import search_for_updates
+from builtins import *
 import util.accountNuke
 import util.dmdeleter
 import util.info
