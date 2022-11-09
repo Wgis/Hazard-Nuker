@@ -1,7 +1,7 @@
 # Hazard Nuker by Rdimo0
 #### Hazard Nuker was made with
 Love ❌ <br>
-Code ✅
+Code ✅ 
  
 * ` Settings (Change the Color Theme, Thread Amount, Hotkeys and more!)`
 * ` Both Compact and Feature-Rich`
